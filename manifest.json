@@ -1,0 +1,11 @@
+{
+    "display_name": "API 探针 API Probe",
+    "loading_order": 120,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "TavernMaster",
+    "version": "0.1.0",
+    "homePage": "https://github.com/你的用户名/st-api-probe"
+}
